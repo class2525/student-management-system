@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Student Management</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<h2>Student Form</h2>
+
+<form id="studentForm">
+  <input type="text" id="first_name" placeholder="First Name" required />
+  <input type="text" id="last_name" placeholder="Last Name" required />
+  <input type="email" id="email" placeholder="Email" required />
+  <input type="date" id="date_of_birth" required />
+  <button type="submit">Save</button>
+</form>
+
+<h2>Search</h2>
+<input type="text" id="search" placeholder="Search..."/>
+
+<h2>Students</h2>
+<table border="1">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Email</th>
+      <th>DOB</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody id="studentTable"></tbody>
+</table>
+
+<script src="assets/script.js"></script>
+</body>
+</html>
