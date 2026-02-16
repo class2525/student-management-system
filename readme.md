@@ -1,19 +1,17 @@
-# Personal Portfolio Website
-## Rutuja's Personal Portfolio Website
+# Student Management System
+## Rutuja's Student Management System
 
 ### Overview
-This personal portfolio website serves as a digital showcase of my work, technical skills, and professional background as a [Full Stack Developer]. It provides an online platform to highlight my projects and experiences.
+(Enterprise CRUD System)
 
-### 🚀 Features
-*   **Fully Responsive:** Optimized for mobile, tablet, and desktop devices.
-*   **Modern UI:** Clean, minimal, and application-like user interface and experience.
-*   **Project Showcase:** Organized display of personal and collaborative projects.
-*   **Contact Form:** Integrated contact form for easy communication.
-*   **SEO Optimized:** Built with performance and discoverability in mind.
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js or Django
+Database: MySQL
 
-### 🛠️ Technologies Used
-*   [HTML]
-*   [CSS]Bootstrap]
-*   [JavaScript]
-*   [Node.js]
-*   [Express.js]
+Requirements:
+• Full CRUD operations with relational integrity
+• MVC or layered architecture
+• Secure database queries
+• Advanced search and sorting
+• Proper schema and table relationships
+• Form validation on both frontend and backend
